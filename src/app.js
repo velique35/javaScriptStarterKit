@@ -19,7 +19,7 @@ console.log(euroDun)
 //array
 //camelCasing
 //PascalCasing
-let konutKredileri = ["Konut kredisi","Emlak Konut Kredisi","Kamu Konut Kredisi","Özel Konut Kredisi"]
+let konutKredileri = ["Konut kredisi","Emlak Konut Kredisi","Kamu Konut Kredisi","Özel Konut Kredisi","sigorta kredisi"]
 
 console.log("<ul>")
 for(let i = 0;i<konutKredileri.length;i++){
@@ -34,3 +34,4 @@ console.log("</ul>")
 </ul> */}
 
 console.log(konutKredileri)
+
